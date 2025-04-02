@@ -1,63 +1,62 @@
 # Duy Pham
 
-<img src="assets/img/profile.jpg" alt="Duy Pham" width="200"/>
+**Business Data Analyst | MSBA Candidate @ USC Marshall**
 
-**📊 Aspiring Business & Data Analyst**  
-MS in Business Analytics @ USC Marshall | Los Angeles, CA  
-📧 duytpham@usc.edu • 🔗 [LinkedIn](https://www.linkedin.com/in/kaidp) • 💻 [GitHub](https://github.com/kaiixdy)
-
----
-
-## 🧠 Education
-
-**University of Southern California – Marshall School of Business**  
-*M.S. in Business Analytics* • *Los Angeles, CA*  
-_Expected May 2026_
-
-**University of the Pacific**  
-*B.S. in Business Administration – Business Analytics & Finance* • *Stockton, CA*  
-_Graduated May 2023_
+📍 Los Angeles, CA • 📧 duytpham@usc.edu • [LinkedIn](https://www.linkedin.com/in/kaidp) • [GitHub](https://github.com/kaiixdy)  
+📄 [View My Resume](Duy%20Pham%20-%20Resume%20-%202025.pdf)
 
 ---
 
-## 💼 Work Experience
+## 🧠 Skills
 
-**Business Intelligence Analyst Intern**  
-*FPT Software – Da Nang, Vietnam*  
-May 2024 – Aug 2024  
-- Built and maintained 5+ DOMO dashboards for a $1.4B fintech client, tracking user behavior across 600,000 users  
-- Worked cross-functionally with engineering and customer success to optimize app performance and improve retention  
-- Identified data issues and collaborated with stakeholders, improving reporting accuracy by 20%
+**Python**, **SQL**, **Tableau**, **Power BI**, **DOMO**, **Excel**, **JMP Pro**, **RapidMiner**  
+*Also familiar with R, HTML/JavaScript, and Agile collaboration*
+
+---
+
+## 🎓 Education
+
+- **M.S., Business Analytics**  
+  University of Southern California - Marshall School of Business • *Los Angeles, CA*  
+  _Expected May 2026_
+
+- **B.S., Business Administration – Business Analytics & Finance**  
+  University of the Pacific • *Stockton, CA*  
+  _May 2023_
+
+---
+
+## 💼 Experience
+
+**Business Intelligence Analyst**  
+*FPT Software – Da Nang, Vietnam | May 2024 – Aug 2024*  
+- Built 5+ Power BI dashboards for a $1.4B fintech client to optimize app features for 600,000 users  
+- Reduced reporting inconsistencies by 20% through dashboard monitoring and collaboration with engineers  
+- Delivered user behavior insights in agile environment to support strategic product decisions  
 
 **Office Associate**  
-*Residence Inn by Marriott – Sacramento, CA*  
-Dec 2023 – May 2024  
-- Analyzed guest feedback and coordinated across departments, improving satisfaction scores by 15%  
-- Streamlined issue resolution and check-in processes using data insights and FOSSE
+*Residence Inn by Marriott – Sacramento, CA | Dec 2023 – May 2024*  
+- Analyzed 1,000+ reviews to enhance service quality, boosting satisfaction by 25%  
+- Streamlined hotel workflows across FOSSE and internal teams, improving check-in experiences  
 
-**Teaching Assistant & Tutor**  
-*University of the Pacific – Stockton, CA*  
-2022 – 2023  
-- TA for COMP 025: Graded assignments and assisted 90+ students with JavaScript, Visual Basic, and HTML  
-- Tutored Calculus and Statistics through weekly group sessions and 1:1 support
+**Business Analyst Intern**  
+*Lions Financial – New York, NY | Jul 2023 – Dec 2023*  
+- Researched hotel REITs and created 5+ Tableau dashboards to guide $3M+ investment decisions  
+
+**Data Analyst Intern**  
+*FocusKPI, Inc. – Santa Clara, CA | Oct 2022 – Feb 2023*  
+- Identified e-commerce trends for a global sport brand, improving ROI by 15%  
 
 ---
 
 ## 📁 Projects
 
-### 📌 Data4Good Case Competition – Microsoft Azure  
-- Analyzed 5,000+ survey responses using Python and NLP techniques  
-- Developed ML pipeline to map survivor data to care stages, improving resource allocation for military families
+**Data4Good AI Case Competition (Microsoft Azure)** – Purdue University (Nov 2024)  
+- Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families  
 
-### 📌 Watering Hole Dude Ranch – SQL Automation  
-- Built SQL database with views and stored procedures to automate guest reservations across 50+ cabins  
-- Improved data efficiency and reporting for management
-
-### 📌 Hotel REIT Dashboard – Tableau  
-- Conducted financial analysis on 3+ hotel REITs and built interactive Tableau dashboards for investment decisions  
-- Presented findings on XHR stock performance and ROI insights
+**SQL Hospitality Database System** – (May 2023)  
+- Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management
 
 ---
 
-> 💬 *"I enjoy turning messy data into clear stories that drive smarter decisions. Let’s connect!"*
-
+> *“Turning data into decisions, one insight at a time.”*
