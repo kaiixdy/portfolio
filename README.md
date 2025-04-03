@@ -11,7 +11,7 @@ I enjoy collaborating across teams, identifying meaningful patterns, and applyin
 
 ---
 
-## 🧠 Skills
+## 🛠️ Skills
 
 **Python**, **SQL**, **Tableau**, **Power BI**, **DOMO**, **Excel**, **JMP Pro**, **RapidMiner**  
 *Also familiar with R, HTML/JavaScript, and Agile collaboration*
