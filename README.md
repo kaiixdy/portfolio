@@ -80,7 +80,7 @@ Analyzed 40K+ LA listings to forecast prices (SARIMA) and uncover satisfaction d
 ### 📊 Hotel REIT Dashboard – Tableau  
 *Investment Analysis Project*  
 Conducted stock and financial analysis on hotel in REITs; visualized insights in Tableau for $3M investment guidance.  
-[🔗 View Project](https://github.com/yourusername/hotel-reit-dashboard)
+[🔗 View Project](https://github.com/kaiixdy/Hotel_REIT_Dashboard)
 
 
 > *“Helping customers feel seen and supported, one insight at a time.”*
