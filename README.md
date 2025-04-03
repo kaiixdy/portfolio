@@ -1,8 +1,9 @@
-
-**Business Data Analyst | MSBA Candidate @ USC Marshall**
+# **Business Data Analyst | MSBA Candidate @ USC Marshall**
 
 📍 Los Angeles, CA • 📧 duytpham@usc.edu • [LinkedIn](https://www.linkedin.com/in/kaidp) • [GitHub](https://github.com/kaiixdy)  
-📄 [View My Resume](DuyPham_Resume _2025.pdf)
+📄 [View My Resume](DuyPham_Resume_2025.pdf)
+
+---
 
 ## 👋 About Me
 
@@ -21,13 +22,13 @@ I enjoy collaborating across teams, identifying meaningful patterns, and applyin
 
 ## 🎓 Education
 
-- **M.S., Business Analytics**  
-  University of Southern California - Marshall School of Business • *Los Angeles, CA*  
-  _Expected May 2026_
+**M.S., Business Analytics**  
+University of Southern California - Marshall School of Business • *Los Angeles, CA*  
+_Expected May 2026_
 
-- **B.S., Business Administration – Business Analytics & Finance**  
-  University of the Pacific • *Stockton, CA*  
-  _May 2023_
+**B.S., Business Administration – Business Analytics & Finance**  
+University of the Pacific • *Stockton, CA*  
+_May 2023_
 
 ---
 
@@ -59,24 +60,22 @@ I enjoy collaborating across teams, identifying meaningful patterns, and applyin
 ### 🧠 Data4Good AI Case Competition – Microsoft Azure  
 *Purdue University (Nov 2024)*  
 Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families.  
-🔗 [View Project](https://github.com/yourusername/data4good-case-competition)
+[🔗 View Project](https://github.com/yourusername/data4good-case-competition)
 
 ---
 
 ### 🏨 SQL Hospitality Database System  
 *May 2023*  
 Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management.  
-🔗 [View Project](https://github.com/yourusername/sql-hospitality-db)
+[🔗 View Project](https://github.com/yourusername/sql-hospitality-db)
 
 ---
 
 ### 📊 Hotel REIT Dashboard – Tableau  
 *Investment Analysis Project*  
 Conducted stock and financial analysis on hotel REITs; visualized insights in Tableau for $3M investment guidance.  
-🔗 [View Project](https://github.com/yourusername/hotel-reit-dashboard)
-
+[🔗 View Project](https://github.com/yourusername/hotel-reit-dashboard)
 
 ---
 
 > *“Helping customers feel seen and supported, one insight at a time.”*
-
