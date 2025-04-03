@@ -1,9 +1,13 @@
-# Duy Pham
-
 **Business Data Analyst | MSBA Candidate @ USC Marshall**
 
 📍 Los Angeles, CA • 📧 duytpham@usc.edu • [LinkedIn](https://www.linkedin.com/in/kaidp) • [GitHub](https://github.com/kaiixdy)  
-📄 [View My Resume](Duy%20Pham%20-%20Resume%20-%202025.pdf)
+📄 [View My Resume](DuyPham_Resume _2025.pdf)
+
+## 👋 About Me
+
+My career has always centered around one goal: enhancing customer experiences through data. Across industries like hospitality, technology, and e-commerce, I’ve consistently used analytics to help people feel seen, understood, and supported.
+
+I enjoy collaborating across teams, identifying meaningful patterns, and applying data-driven solutions to optimize both customer journeys and internal operations. I’m passionate about making analytics human-centered, actionable, and impactful.
 
 ---
 
@@ -51,12 +55,19 @@
 
 ## 📁 Projects
 
-**Data4Good AI Case Competition (Microsoft Azure)** – Purdue University (Nov 2024)  
-- Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families  
+### [🧠 Data4Good AI Case Competition – Microsoft Azure](https://github.com/yourusername/data4good-case-competition)
+*Purdue University (Nov 2024)*  
+Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families.
 
-**SQL Hospitality Database System** – (May 2023)  
-- Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management
+### [🏨 SQL Hospitality Database System](https://github.com/yourusername/sql-hospitality-db)
+*May 2023*  
+Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management.
+
+### [📊 Hotel REIT Dashboard – Tableau](https://github.com/yourusername/hotel-reit-dashboard)
+*Investment Analysis Project*  
+Conducted stock and financial analysis on hotel REITs; visualized insights in Tableau for $3M investment guidance.
 
 ---
 
-> *“Turning data into decisions, one insight at a time.”*
+> *“Helping customers feel seen and supported, one insight at a time.”*
+
