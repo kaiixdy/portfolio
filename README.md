@@ -57,29 +57,30 @@ _May 2023_
 
 ## 📁 Projects
 
-### 🧠 Data4Good AI Case Competition – Microsoft Azure  
-*Purdue University (Nov 2024)*  
-Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families.  
-[🔗 View Project](https://github.com/yourusername/data4good-case-competition)
-
----
-
 ### 🏨 SQL Hospitality Database System  
 *May 2023*  
-Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management.  
+Built and optimized SQL queries and procedures to automate hotel reservations and cabin management.  
 [🔗 View Project](https://github.com/kaiixdy/Database_Development_for_Hospitality_Management)
 
 ---
 
-### 📊 Hotel REIT Dashboard – Tableau  
-*Investment Analysis Project*  
-Conducted stock and financial analysis on hotel REITs; visualized insights in Tableau for $3M investment guidance.  
-[🔗 View Project](https://github.com/yourusername/hotel-reit-dashboard)
+### 🧠 Data4Good AI Case Competition – Microsoft Azure  
+*Purdue University (Nov 2024)*  
+Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families.  
+[🔗 View Project](https://github.com/kaiixdy/data4good_case_competition)
 
-### 🏡 Airbnb LA Insights: Pricing Forecast & Satisfaction Modeling  
+---
+
+### 🏡 Airbnb LA Insights: Pricing Forecast & Satisfaction Modeling
+*March 2025*  
 Analyzed 40K+ LA listings to forecast prices (SARIMA) and uncover satisfaction drivers (regression, sentiment), with supporting data visualizations in Python.  
 🔗 [View Project](https://github.com/kaiixdy/airbnb_la_insights)
 
 ---
+### 📊 Hotel REIT Dashboard – Tableau  
+*Investment Analysis Project*  
+Conducted stock and financial analysis on hotel in REITs; visualized insights in Tableau for $3M investment guidance.  
+[🔗 View Project](https://github.com/yourusername/hotel-reit-dashboard)
+
 
 > *“Helping customers feel seen and supported, one insight at a time.”*
