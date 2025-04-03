@@ -55,7 +55,8 @@ _May 2023_
 
 ---
 
-## 📁 Projects
+<details>
+  <summary>📁 View Projects</summary>
 
 ### 🧠 Data4Good AI Case Competition – Microsoft Azure  
 *Purdue University (Nov 2024)*  
@@ -75,6 +76,8 @@ Built and optimized 8+ SQL queries and procedures to automate hotel reservations
 *Investment Analysis Project*  
 Conducted stock and financial analysis on hotel REITs; visualized insights in Tableau for $3M investment guidance.  
 [🔗 View Project](https://github.com/yourusername/hotel-reit-dashboard)
+
+</details>
 
 ---
 
