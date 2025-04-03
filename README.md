@@ -43,7 +43,7 @@ _May 2023_
 **Office Associate**  
 *Residence Inn by Marriott – Sacramento, CA | Dec 2023 – May 2024*  
 - Analyzed 1,000+ reviews to enhance service quality, boosting satisfaction by 25%  
-- Streamlined hotel workflows across FOSSE and internal teams, improving check-in experiences  
+- Streamlined hotel workflows across internal teams, improving check-in experiences  
 
 **Business Analyst Intern**  
 *Lions Financial – New York, NY | Jul 2023 – Dec 2023*  
@@ -67,7 +67,7 @@ Engineered a Python-based ML solution mapping 5,000+ survey responses to care st
 ### 🏨 SQL Hospitality Database System  
 *May 2023*  
 Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management.  
-[🔗 View Project](https://github.com/yourusername/sql-hospitality-db)
+[🔗 View Project](https://github.com/kaiixdy/Database_Development_for_Hospitality_Management)
 
 ---
 
