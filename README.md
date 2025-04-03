@@ -1,3 +1,4 @@
+
 **Business Data Analyst | MSBA Candidate @ USC Marshall**
 
 📍 Los Angeles, CA • 📧 duytpham@usc.edu • [LinkedIn](https://www.linkedin.com/in/kaidp) • [GitHub](https://github.com/kaiixdy)  
@@ -55,17 +56,25 @@ I enjoy collaborating across teams, identifying meaningful patterns, and applyin
 
 ## 📁 Projects
 
-### [🧠 Data4Good AI Case Competition – Microsoft Azure](https://github.com/yourusername/data4good-case-competition)
+### 🧠 Data4Good AI Case Competition – Microsoft Azure  
 *Purdue University (Nov 2024)*  
-Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families.
+Engineered a Python-based ML solution mapping 5,000+ survey responses to care stages for military families.  
+🔗 [View Project](https://github.com/yourusername/data4good-case-competition)
 
-### [🏨 SQL Hospitality Database System](https://github.com/yourusername/sql-hospitality-db)
+---
+
+### 🏨 SQL Hospitality Database System  
 *May 2023*  
-Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management.
+Built and optimized 8+ SQL queries and procedures to automate hotel reservations and cabin management.  
+🔗 [View Project](https://github.com/yourusername/sql-hospitality-db)
 
-### [📊 Hotel REIT Dashboard – Tableau](https://github.com/yourusername/hotel-reit-dashboard)
+---
+
+### 📊 Hotel REIT Dashboard – Tableau  
 *Investment Analysis Project*  
-Conducted stock and financial analysis on hotel REITs; visualized insights in Tableau for $3M investment guidance.
+Conducted stock and financial analysis on hotel REITs; visualized insights in Tableau for $3M investment guidance.  
+🔗 [View Project](https://github.com/yourusername/hotel-reit-dashboard)
+
 
 ---
 
