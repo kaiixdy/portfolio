@@ -76,6 +76,10 @@ Built and optimized 8+ SQL queries and procedures to automate hotel reservations
 Conducted stock and financial analysis on hotel REITs; visualized insights in Tableau for $3M investment guidance.  
 [🔗 View Project](https://github.com/yourusername/hotel-reit-dashboard)
 
+### 🏡 Airbnb LA Insights: Pricing Forecast & Satisfaction Modeling  
+Analyzed 40K+ LA listings to forecast prices (SARIMA) and uncover satisfaction drivers (regression, sentiment), with supporting data visualizations in Python.  
+🔗 [View Project](https://github.com/kaiixdy/airbnb_la_insights)
+
 ---
 
 > *“Helping customers feel seen and supported, one insight at a time.”*
