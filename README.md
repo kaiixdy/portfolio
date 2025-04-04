@@ -1,7 +1,7 @@
 ### Business Data Analyst | MSBA Candidate @ USC Marshall
 
 📍 Los Angeles, CA • 📧 duytpham@usc.edu • [LinkedIn](https://www.linkedin.com/in/kaidp) • [GitHub](https://github.com/kaiixdy)  
-📄 [View My Resume](/Duy Pham_Resume_2025.pdf)
+📄 [View My Resume](Duy Pham_Resume_2025.pdf)
 
 ---
 
