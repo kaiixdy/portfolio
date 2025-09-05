@@ -42,7 +42,7 @@ _May 2023_
 
 **Business Intelligence Analyst**  
 *FPT Software – Da Nang, Vietnam | May 2024 – Aug 2024*  
-- Built 5 Power BI dashboards for a $1.4B fintech client to optimize app features for 600,000 users  
+- Built 5 DOMO dashboards for a $1.4B fintech client to optimize app features for 600,000 users  
 - Reduced reporting inconsistencies by 20% through dashboard monitoring and collaboration with engineers  
 - Delivered user behavior insights in agile environment to support strategic product decisions  
 
