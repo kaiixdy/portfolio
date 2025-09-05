@@ -34,9 +34,15 @@ _May 2023_
 
 ## 💼 Experience
 
+**Data Analyst Intern**  
+*Carter’s Inc. – Atlanta, GA | May 2025 – Aug 2025*  
+- Developed ETL workflows with Tableau Prep and SQL to integrate multi-source data into a centralized dataset  
+- Built 2 interactive Tableau dashboards with automated refreshes to track container volumes, carrier performance, and freight movement for the inbound transportation team  
+- Partnered with 10+ stakeholders to define key metrics, improve reporting accuracy, and document processes for long-term usability  
+
 **Business Intelligence Analyst**  
 *FPT Software – Da Nang, Vietnam | May 2024 – Aug 2024*  
-- Built 5+ Power BI dashboards for a $1.4B fintech client to optimize app features for 600,000 users  
+- Built 5 Power BI dashboards for a $1.4B fintech client to optimize app features for 600,000 users  
 - Reduced reporting inconsistencies by 20% through dashboard monitoring and collaboration with engineers  
 - Delivered user behavior insights in agile environment to support strategic product decisions  
 
