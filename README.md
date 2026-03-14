@@ -46,7 +46,7 @@ _May 2023_
 - Reduced reporting inconsistencies by 20% through dashboard monitoring and collaboration with engineers  
 - Delivered user behavior insights in agile environment to support strategic product decisions  
 
-**Office Associate**  
+**Operations Associate**  
 *Residence Inn by Marriott – Sacramento, CA | Dec 2023 – May 2024*  
 - Analyzed 1,000+ reviews to enhance service quality, boosting satisfaction by 25%  
 - Streamlined hotel workflows across internal teams, improving check-in experiences  
