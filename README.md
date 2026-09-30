@@ -34,7 +34,7 @@ _May 2023_
 
 ## 💼 Experience
 
-**Data Analyst Intern**  
+**Data Analyst Intern (Transportation)**  
 *Carter’s Inc. – Atlanta, GA | May 2025 – Aug 2025*  
 - Developed ETL workflows with Tableau Prep and SQL to integrate multi-source data into a centralized dataset  
 - Built 2 interactive Tableau dashboards with automated refreshes to track container volumes, carrier performance, and freight movement for the inbound transportation team  
@@ -52,11 +52,11 @@ _May 2023_
 - Streamlined hotel workflows across internal teams, improving check-in experiences  
 
 **Business Analyst Intern**  
-*Lions Financial – New York, NY | Jul 2023 – Dec 2023*  
+*Lions Financial – New York, NY | May 2023 – Dec 2023*  
 - Researched hotel REITs and created 5+ Tableau dashboards to guide $3M+ investment decisions  
 
 **Data Analyst Intern**  
-*FocusKPI, Inc. – Santa Clara, CA | Oct 2022 – Feb 2023*  
+*FocusKPI, Inc. – Santa Clara, CA | Jan 2023 – May 2023*  
 - Identified e-commerce trends for a global sport brand, improving ROI by 15%  
 
 ---
